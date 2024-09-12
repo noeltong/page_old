@@ -1,7 +1,7 @@
 ---
 title: "Machine-Learning-based Colorectal Tissue Classification via Acoustic Resolution Photoacoustic Microscopy"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2023-01-01-Machine-Learning-based-Colorectal-Tissue-Classification-via-Acoustic-Resolution-Photoacoustic-Microscopy
 date: 2023-01-01
 venue: 'ArXiv'

@@ -1,7 +1,7 @@
 ---
 title: "Benign and Malignant Classification of Human Colorectal Tissue by Acoustic-Resolution Photoacoustic Microscopy"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2022-01-01-Benign-and-Malignant-Classification-of-Human-Colorectal-Tissue-by-Acoustic-Resolution-Photoacoustic-Microscopy
 date: 2022-01-01
 venue: '2022 IEEE International Ultrasonics Symposium (IUS)'

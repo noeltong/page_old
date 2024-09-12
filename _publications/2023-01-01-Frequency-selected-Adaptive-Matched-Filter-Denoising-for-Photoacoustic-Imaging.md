@@ -1,6 +1,7 @@
 ---
 title: "Frequency-selected Adaptive Matched Filter Denoising for Photoacoustic Imaging"
-collection: conferences
+collection: publications
+category: conferences
 permalink: /publication/2023-01-01-Frequency-selected-Adaptive-Matched-Filter-Denoising-for-Photoacoustic-Imaging
 date: 2023-01-01
 venue: '2023 IEEE International Ultrasonics Symposium (IUS)'

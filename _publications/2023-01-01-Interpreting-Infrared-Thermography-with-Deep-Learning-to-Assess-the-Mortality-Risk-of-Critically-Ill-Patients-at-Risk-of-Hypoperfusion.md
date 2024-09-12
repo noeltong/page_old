@@ -1,6 +1,7 @@
 ---
 title: "Interpreting Infrared Thermography with Deep Learning to Assess the Mortality Risk of Critically Ill Patients at Risk of Hypoperfusion"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Interpreting-Infrared-Thermography-with-Deep-Learning-to-Assess-the-Mortality-Risk-of-Critically-Ill-Patients-at-Risk-of-Hypoperfusion
 date: 2023-01-01
 venue: 'Reviews in Cardiovascular Medicine'

@@ -1,6 +1,7 @@
 ---
 title: "Photoacoustic imaging plus X: a review"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Photoacoustic-imaging-plus-X-a-review
 date: 2023-01-01
 venue: 'Journal of Biomedical Optics'

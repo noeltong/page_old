@@ -1,6 +1,7 @@
 ---
 title: "Score-based Generative Models for Photoacoustic Image Reconstruction with Rotation Consistency Constraints"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Score-based-Generative-Models-for-Photoacoustic-Image-Reconstruction-with-Rotation-Consistency-Constraints
 date: 2023-01-01
 venue: 'ArXiv'

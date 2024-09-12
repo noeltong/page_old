@@ -1,6 +1,7 @@
 ---
 title: "Enhancing Sparse Photoacoustic Tomography Reconstruction with Score-Based Generative Models"
-collection: conferences
+collection: publications
+category: conferences
 permalink: /publication/2024-01-01-Enhancing-Sparse-Photoacoustic-Tomography-Reconstruction-with-Score-Based-Generative-Models
 date: 2024-01-01
 venue: '2024 IEEE International Symposium on Biomedical Imaging (ISBI)'

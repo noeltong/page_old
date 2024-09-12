@@ -33,11 +33,11 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=-TaP8h4AAAAJ"
-  impactstory      : # URL
+  # impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-9961-7822"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  semantic         : "https://www.semanticscholar.org/author/Shangqing-Tong/2199983203"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

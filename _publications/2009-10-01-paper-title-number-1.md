@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "Enhancing Sparse Photoacoustic Tomography Reconstruction with Score-Based Generative Models"
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01

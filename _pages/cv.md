@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electronic Engineering, Shanghai Jiao Tong University, Minhang, Shanghai, China, 2024 - 2028 (expected)
-* M.S. in Electronic Engineering, ShanghaiTech University, Pudong, Shanghai, China, 2021 - 2024
+* Ph.D in Electronic Engineering, Shanghai Jiao Tong University, Shanghai, China, 2024 - 2028 (expected)
+* M.S. in Electronic Engineering, ShanghaiTech University, Shanghai, China, 2021 - 2024
 * B.S. in Communication Engineering, Jiangnan University, Wuxi, Jiangsu, China, 2012
 
 Work experience
@@ -31,7 +31,7 @@ Skills
     * Self-supervised representation learning and other pre-training methods,
     * Computer vision in biomedical applications.
 * Platform: Linux > Windows.
-* Programming Languages: Python, MATLAB, \LaTeX{}.
+* Programming Languages: Python, MATLAB, LaTeX.
 * DL framework: PyTorch > JAX.
 
 Publications
@@ -40,7 +40,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -54,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

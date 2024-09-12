@@ -22,12 +22,12 @@ repository               : "noeltong/noeltong.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shangqing Tong"
   pronouns         : # example: "she/her"  
   bio              : "Nothing to say"
   location         : "800 Dongchuan Rd, Minhang, Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
-  uri              : # URL
+  # uri              : # URL
   email            : "shangqing.tong@sjtu.edu.cn" 
 
   # Academic websites

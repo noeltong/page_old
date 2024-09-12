@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electronic Engineering, Shanghai Jiao Tong University, Minhang, Shanghai, China, 2024 - 2028 (expected)
+* M.S. in Electronic Engineering, ShanghaiTech University, Pudong, Shanghai, China, 2021 - 2024
+* B.S. in Communication Engineering, Jiangnan University, Wuxi, Jiangsu, China, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Central Research Institute, United Imaging Healthcare Co., LTD, Shanghai, Oct. 2023 -- July 2024
+    * During my internship at Central Research Institute of United Imaging, my work mainly focused on the quantitative analysis algorithms of parametric imaging of dynamic positron emission tomography (dPET) imaging with patient data from uEXPLORER, a total body PET/CT scanner, under the supervision of Prof.~Yun Zhou. My work mainly contains
+        * Dual-tracer time-activity curve separation with machine learning algorithms.
+        * Accelerating irreversible 2-tissue compartment model with CUDA and PyTorch.
+        * Development of automatic PET/CT parametric imaging and time-activity curve calculation (including regions of interest of brain and tissues of total body) pipeline with CT segmentation.
+    * Supervisor: Prof. Yun Zhou (email: `yun.zhou@united-imaging.com`)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Interests
+    * Solving inverse problems in medical imaging (particularly in photoacoustic imaging) with generative models,
+    * Self-supervised representation learning and other pre-training methods,
+    * Computer vision in biomedical applications.
+* Platform: Linux > Windows.
+* Programming Languages: Python, MATLAB, \LaTeX{}.
+* DL framework: PyTorch > JAX.
 
 Publications
 ======

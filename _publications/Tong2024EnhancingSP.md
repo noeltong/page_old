@@ -5,8 +5,8 @@ category: conference
 permalink: /publication/Tong2024EnhancingSP
 date: 2024-05-27
 venue: 'IEEE International Symposium on Biomedical Imaging'
-paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635125'
-citation: "Tong, Shangqing, Hengrong Lan, Daohuai Jiang, Liming Nie, Jianwen Luo and Fei Gao. &quot;Enhancing Sparse Photoacoustic Tomography Reconstruction with Score-Based Generative Models.&quot; <i>2024 IEEE International Symposium on Biomedical Imaging (ISBI)</i> (2024): 1-4."
+# paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635125'
+# citation: "Tong, Shangqing, Hengrong Lan, Daohuai Jiang, Liming Nie, Jianwen Luo and Fei Gao. &quot;Enhancing Sparse Photoacoustic Tomography Reconstruction with Score-Based Generative Models.&quot; <i>2024 IEEE International Symposium on Biomedical Imaging (ISBI)</i> (2024): 1-4."
 ---
 
 
